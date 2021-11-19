@@ -20,7 +20,7 @@ The *NiPreps* framework is built on experimental research software, so it is ver
 It's definitely not your fault, do not give up!
 
 Before you go ahead and ask a question, we ask you to do some research on your end.
-Chances are that someone has gon thorugh the same or a similar issue, and the response is recorded somewhere.
+Chances are that someone has gone through the same or a similar issue, and the response is recorded somewhere.
 Where to check for answers (in order of priority):
 
   1. [NeuroStars][neurostars]: this is a forum for neuroscientists like StackOverflow for programmers.
