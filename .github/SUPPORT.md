@@ -28,13 +28,16 @@ Where to check for answers (in order of priority):
   1. [*NiPreps* general documentation][nipreps]: here we provide some advice regarding how to run containers, how to set up [*TemplateFlow*][templateflow], etc.
   1. **The Project's documentation site**. Our projects usually have an FAQ (frequently asked questions) that are specific to the tool.
   1. **The Project's issue tracker at GitHub**. You'll easily find the issue tracker with the URL `https://github.com/nipreps/<project>/issues` (do not forget to replace `<project>` with the actual project name -- e.g., [`https://github.com/nipreps/fmriprep/issues`][fmriprep-issues])
-  1. 
+  1. If you're still not sure where to begin, feel free to pop into [the Brainhack's mattermost][mattermost] and introduce yourself!
+     You'll find some channels for particular tools (e.g., [*#fMRIPrep*][mattermost-fmriprep], [*#dMRIPrep*][mattermost-dmriprep], [*#MRIQC*][mattermost-mriqc]) where you can post your questions, although it is not guaranteed that it will be revised any time soon.
+
+Please understand that we run this community on semi- or fully-volunteering basis, and sometimes our availability is very reduced.
 
 ## Asking quality questions
 
 General questions should go to [NeuroStars][neurostars].
 If you want to join our meetings or learn more about the community, you can head to [Nipy Discourse][discourse].
-If you think neither of those is the right place, you are probably facing a bug - please then head to the project's GitHub discussions or the issue tracker (e.g., [fMRIPrep discussions][chat] and [fMRIPrep issues][fmriprep-issues]).
+If you think neither of those is the right place, you are probably facing a bug - please then head to the project's GitHub discussions or the issue tracker (e.g., [*fMRIPrep* discussions][chat] and [*fMRIPrep* issues][fmriprep-issues]).
 
 Help us help you!
 Spend time framing questions and add links and resources.
@@ -52,9 +55,6 @@ Here are some tips:
 *   Make sure you provide us with sufficient level of detail to understand the issue and, if possible, recreate it in our own settings.
     To do so, it is important that you provide details such as the exact command line you were running, the full log that the tool generated, data (if you can share them), visual reports, etc. An guide of potential questions is found [here](https://github.com/nipreps/fmriprep/issues/new?assignees=&labels=bug&template=bug_report.yml).
 *   The more time you put into asking your question, the better we can help you
-*   If you're still not sure where to begin, feel free to pop into [the Brainhack's mattermost][mattermost] and introduce yourself!
-    You'll find some channels for particular tools (e.g., [*#fMRIPrep*][mattermost-fmriprep], [*#dMRIPrep*][mattermost-dmriprep], [*#MRIQC*][mattermost-mriqc]) where you can post your questions, although it is not guaranteed that it will be revised any soon.
-    Please understand that we run this community on semi- or fully-volunteering basis, and sometimes our availability is very reduced.
 
 !!! note
     Guidelines derived from [Titus Wormer][author]'s [`SUPPORT.md` file for RemarkJS][source]
