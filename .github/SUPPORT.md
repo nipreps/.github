@@ -91,7 +91,7 @@ Here are some tips:
 
 [source]: https://github.com/remarkjs/.github/blob/9858b4b693d61337b6d5ab37d36304d2a4b0bf33/support.md
 
-[mattermost]: https://mattermost.brainhack.org/brainhack/
+[mattermost]: https://mattermost.brainhack.org/brainhack/channels/town-square
 
 [mattermost-dmriprep]: https://mattermost.brainhack.org/brainhack/channels/dmriprep
 
