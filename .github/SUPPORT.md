@@ -37,7 +37,7 @@ Please understand that we run this community on semi- or fully-volunteering basi
 
 General questions should go to [NeuroStars][neurostars].
 If you want to join our meetings or learn more about the community, you can head to [Nipy Discourse][discourse].
-If you think neither of those is the right place, you are probably facing a bug - please then head to the project's GitHub discussions or the issue tracker (e.g., [*fMRIPrep* discussions][chat] and [*fMRIPrep* issues][fmriprep-issues]).
+If you think neither of those is the right place, you are probably facing a bug - please then head to the project's GitHub discussions or the issue tracker (e.g., [*fMRIPrep* discussions][fmriprep-discussions] and [*fMRIPrep* issues][fmriprep-issues]).
 
 Help us help you!
 Spend time framing questions and add links and resources.
