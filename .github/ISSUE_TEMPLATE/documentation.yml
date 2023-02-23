@@ -1,0 +1,39 @@
+name: Documentation improvement
+about: Is the documentation of something missing, unclear, or lacking? This is the place.
+labels: 'documentation'
+assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thank you for your suggestion!
+
+        We welcome any ideas about how to improve the documentation of this project.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What would you like changed/added and why? 
+      description: |
+        What was insufficiently described or confusing and from what section of the documentation?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: interest
+    attributes:
+      label: Do you have any interest in helping improve the documentation?
+      description: |
+        We appreciate any help you can offer!
+        For information on how to contribute, please refer to our [contributing guidelines](https://www.nipreps.org/community/CONTRIBUTING/).
+      options:
+        - "Yes"
+        - Yes, but I would need guidance
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: addinfo
+    attributes:
+      label: Do you have any suggestions for the new documents?
+      description: Add any additional information or context about the request here.
