@@ -1,7 +1,6 @@
 name: Documentation improvement
 about: Is the documentation of something missing, unclear, or lacking? This is the place.
 labels: 'documentation'
-assignees: ''
 body:
   - type: markdown
     attributes:
