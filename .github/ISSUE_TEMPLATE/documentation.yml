@@ -1,6 +1,6 @@
-name: Documentation improvement
-about: Is the documentation of something missing, unclear, or lacking? This is the place.
-labels: 'documentation'
+name: "Documentation improvement"
+description: "Is the documentation of something missing, unclear, or lacking? This is the place."
+labels: ['documentation']
 body:
   - type: markdown
     attributes:
