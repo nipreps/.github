@@ -3,7 +3,7 @@
 Please visit www.nipreps.org for a more comprehensive description of this community.
 Don't forget to also learn about the sister initiative www.templateflow.org.
 
-News and some discussions take place at [the Nipy discourse platform](https://nipy.discourse.group/c/nipreps/9).
+News and some discussions take place at the Nipreps GitHub [discussions](https://github.com/orgs/nipreps/discussions).
 
 ### About
 The current neuroimaging workflow has matured into a large chain of processing and analysis steps involving a large number of experts,
