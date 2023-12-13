@@ -24,7 +24,6 @@ Chances are that someone has gone through the same or a similar issue, and the r
 Where to check for answers (in order of priority):
 
   1. [NeuroStars][neurostars]: this is a forum for neuroscientists like StackOverflow for programmers.
-  1. [Nipy Discourse][discourse]: this is a platform similar to NeuroStars, but we use it for public communication with the community and at the time of writing doesn't really have particular debugging information, but you can find interesting resources here.
   1. [*NiPreps* general documentation][nipreps]: here we provide some advice regarding how to run containers, how to set up [*TemplateFlow*][templateflow], etc.
   1. **The Project's documentation site**. Our projects usually have an FAQ (frequently asked questions) that are specific to the tool.
   1. **The Project's issue tracker at GitHub**. You'll easily find the issue tracker with the URL `https://github.com/nipreps/<project>/issues` (do not forget to replace `<project>` with the actual project name -- e.g., [`https://github.com/nipreps/fmriprep/issues`][fmriprep-issues])
@@ -36,8 +35,8 @@ Please understand that we run this community on semi- or fully-volunteering basi
 ## Asking quality questions
 
 General questions should go to [NeuroStars][neurostars].
-If you want to join our meetings or learn more about the community, you can head to [Nipy Discourse][discourse].
-If you think neither of those is the right place, you are probably facing a bug - please then head to the project's GitHub discussions or the issue tracker (e.g., [*fMRIPrep* discussions][fmriprep-discussions] and [*fMRIPrep* issues][fmriprep-issues]).
+If you want to join our meetings or learn more about the community, you can head to the Nipreps GitHub [discussions].
+If you think neither of those is the right place, you are probably facing a bug - please then head to the project's GitHub discussions or the issue tracker (e.g., [*fMRIPrep* discussions][fmriprep-discussions] or [*fMRIPrep* issues][fmriprep-issues]).
 
 Help us help you!
 Spend time framing questions and add links and resources.
@@ -77,7 +76,7 @@ Here are some tips:
 
 [neurostars]: https://neurostars.org
 
-[discourse]: https://nipy.discourse.group/c/nipreps/9
+[discussions]: https://github.com/orgs/nipreps/discussions
 
 [nipreps]: https://nipreps.org
 
@@ -87,7 +86,7 @@ Here are some tips:
 
 [fmriprep-discussions]: https://github.com/nipreps/fmriprep/discussions
 
-[validator]: http://bids-standard.github.io/bids-validator/
+[validator]: https://bids-standard.github.io/bids-validator/
 
 [source]: https://github.com/remarkjs/.github/blob/9858b4b693d61337b6d5ab37d36304d2a4b0bf33/support.md
 

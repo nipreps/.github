@@ -346,7 +346,7 @@ You're awesome. :wave::smiley:
 
 [link_git]: https://git-scm.com/
 [link_handbook]: https://guides.github.com/introduction/git-handbook/
-[link_swc_intro]: http://swcarpentry.github.io/git-novice/
+[link_swc_intro]: https://swcarpentry.github.io/git-novice/
 
 [writing_formatting_github]: https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github
 [markdown]: https://daringfireball.net/projects/markdown
@@ -375,7 +375,7 @@ You're awesome. :wave::smiley:
 [link_zenodo]: https://github.com/nipreps/fmriprep/blob/master/.zenodo.json
 [link_update_script]: https://github.com/nipreps/fmriprep/blob/master/.maintenance/update_zenodo.py
 [link_devel]: https://fmriprep.readthedocs.io/en/latest/contributors.html
-[link_fmriprep]: http://fmriprep.org
+[link_fmriprep]: https://fmriprep.org
 [link_bidsapps]: https://bids-apps.neuroimaging.io
 [link_mattermost]: https://mattermost.brainhack.org/brainhack/channels/fmriprep
 [link_aroma]: https://fmriprep.readthedocs.io/en/stable/workflows.html#ica-aroma
