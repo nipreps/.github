@@ -23,48 +23,14 @@ body:
       render: shell
     validations:
       required: true
-  - type: input
-    id: version
-    attributes:
-      label: What version of the software are you running?
-    validations:
-      required: true
   - type: dropdown
     id: environment
     attributes:
       label: How are you running this software?
       options:
         - Docker
-        - Singularity
         - Local installation ("bare-metal")
         - Other
-    validations:
-      required: true
-  - type: dropdown
-    id: bids-valid
-    attributes:
-      label: Is your data BIDS valid?
-      description: |
-        The BIDS validator can be found at: https://bids-standard.github.io/bids-validator/
-        Errors should not be present, but warnings are acceptable.
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
-  - type: dropdown
-    id: reuse
-    attributes:
-      label: Are you reusing any previously computed results?
-      description: |
-        You can select multiple options.
-        We recommend using a fresh working directory when upgrading to a new fMRIPrep minor series.
-      multiple: true
-      options:
-        - FreeSurfer
-        - Anatomical derivatives
-        - Work directory
-        - "No"
     validations:
       required: true
   - type: textarea
