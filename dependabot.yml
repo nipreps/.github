@@ -12,3 +12,4 @@ updates:
       actions-infrastructure:
         patterns:
           - "actions/*"
+          - "codecov/*"
